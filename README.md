@@ -4,13 +4,39 @@ Easy Bus Tracker
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+credentials
 
-A few resources to get you started if this is your first Flutter project:
+account: user
+password: password
+role: user
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+account: admin
+password: password
+role: admin
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-------------------------------
+
+-For demonstration have 2 android app:
+-install the app in both phones:
+-1- make user and other make admin:
+-observe only a single bus for realtime check:
+- read actual lat and log and go to admin buses and update coordinates and it will
+  update bus on the map in real time
+
+so far kuna single route:
+& kuna basi mbili
+
+LINKS:
+
+github: shared:
+
+https://www.findlatitudeandlongitude.com/l/tanzania%2C+Kimara.+ubungo/932132/
+
+
+TODO:
+-> Admin reports
+-> CRUD on bus,routes,users
+-> Notification of nearly bus
+
+
+

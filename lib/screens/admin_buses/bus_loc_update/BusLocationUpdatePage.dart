@@ -98,7 +98,9 @@ class BusLocationUpdatePage extends StatelessWidget {
                       ),
                     )
                 )
-            ))
+            )),
+
+            
 
           ],
         ),
