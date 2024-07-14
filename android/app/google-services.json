@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "642881895984",
+    "firebase_url": "https://easybustracker-fafea-default-rtdb.firebaseio.com",
+    "project_id": "easybustracker-fafea",
+    "storage_bucket": "easybustracker-fafea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642881895984:android:bab0e542b6ab0f8c2037f5",
+        "android_client_info": {
+          "package_name": "com.easy_bus_tracker.easy_bus_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhvWnWqvaRXXdQplI_A5D3E3AKsDIPSwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
